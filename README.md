@@ -1,5 +1,5 @@
 # Merhaba 👋, Benim adım Gürkan
-## Sakarya Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim
+## Sakarya Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim
 
 - 🧠 Şu anda yapay zeka ve görüntü işleme konularında aktif olarak öğrenme sürecindeyim.
 - 🌱 Yeni şeyler öğrenmeyi,araştırmayı ve kod yazmayı seviyorum.
