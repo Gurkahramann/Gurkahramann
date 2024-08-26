@@ -1,7 +1,7 @@
 # Merhaba 👋, Benim adım Gürkan
 ## Sakarya Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim
 
-- 🧠 Şu anda yapay zeka ve görüntü işleme konularında aktif olarak öğrenme sürecindeyim.
+- 🧠 Şu anda Web Programlama ve Mobil ile ilgileniyorum.
 - 🌱 Yeni şeyler öğrenmeyi,araştırmayı ve kod yazmayı seviyorum.
 - 🔍 Projelerime buradan göz [atabilirsiniz](https://github.com/Gurkahramann?tab=repositories).
 - 📫 Sosyal Medya Hesaplarım:
