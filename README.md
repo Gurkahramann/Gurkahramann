@@ -21,7 +21,7 @@
 
   ## I am a 3rd Year Computer Engineering Student at Sakarya University
 
-  - 🧠 I am currently actively learning in the fields of artificial intelligence and image processing.
+  - 🧠 I am currently actively learning in the fields of mobile and web programming.
   - 🌱 I love to learn new things, research, and write code.
   - 🔍 You can take a look at my projects from [here](https://github.com/Gurkahramann?tab=repositories).
   - 📫 My Social Media Accounts:
