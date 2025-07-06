@@ -1,5 +1,5 @@
 # Merhaba 👋, Benim adım Gürkan
-## Sakarya Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim
+## Junior FullStack Developer
 
 - 🧠 Şu anda Web Programlama ve Mobil ile ilgileniyorum.
 - 🌱 Yeni şeyler öğrenmeyi,araştırmayı ve kod yazmayı seviyorum.
@@ -19,7 +19,7 @@
 <details>
   <summary>For English, click here!</summary>
 
-  ## I am a 3rd Year Computer Engineering Student at Sakarya University
+  ## I am a Junior Fullstack Developer graduated at Sakarya University
 
   - 🧠 I am currently actively learning in the fields of mobile and web programming.
   - 🌱 I love to learn new things, research, and write code.
