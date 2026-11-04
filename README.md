@@ -1,5 +1,5 @@
 # Merhaba 👋, Benim adım Gürkan
-## Junior FullStack Developer
+## Full Stack Developer
 
 - 🧠 Şu anda Web Programlama ve Mobil ile ilgileniyorum.
 - 🌱 Yeni şeyler öğrenmeyi,araştırmayı ve kod yazmayı seviyorum.
